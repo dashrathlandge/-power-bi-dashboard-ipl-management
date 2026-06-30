@@ -162,7 +162,7 @@ IPL-Analytics-Dashboard/
 - KPI Development
 
 ---
-✅ Advantages
+## ✅ Advantages
 Interactive and user-friendly dashboard.
 Provides season-wise IPL performance analysis.
 Tracks team wins and match trends.
@@ -175,7 +175,7 @@ Easy to customize with new IPL seasons.
 Suitable for Data Analyst portfolios and resume projects.
 
 
-❌ Limitations (Disadvantages)
+# ❌ Limitations (Disadvantages)
 Uses historical data only; no live match updates.
 Analysis depends on the quality and completeness of the dataset.
 Does not include ball-by-ball statistics (unless an additional dataset is used).
@@ -199,7 +199,7 @@ Demonstrates Power BI, DAX, Power Query, and data visualization skills for portf
 Makes large IPL datasets easy to understand through interactive dashboards.
 Can be extended with future seasons or additional player statistics.
 
-❌Not Benefits / Limitations
+# ❌Not Benefits / Limitations
 Does not provide live IPL match data.
 Does not predict future match outcomes.
 Does not include real-time score updates.
