@@ -173,6 +173,8 @@ Uses DAX measures and KPIs for business insights.
 Helps users identify winning patterns and trends.
 Easy to customize with new IPL seasons.
 Suitable for Data Analyst portfolios and resume projects.
+
+
 ❌ Limitations (Disadvantages)
 Uses historical data only; no live match updates.
 Analysis depends on the quality and completeness of the dataset.
