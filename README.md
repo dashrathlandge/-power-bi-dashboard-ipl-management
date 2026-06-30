@@ -163,16 +163,16 @@ IPL-Analytics-Dashboard/
 
 ---
 ## ✅ Advantages
-Interactive and user-friendly dashboard.
-Provides season-wise IPL performance analysis.
-Tracks team wins and match trends.
-Analyzes Player of the Match awards.
-Displays venue and city-wise match distribution.
-Includes dynamic filters (Season, Team, City, Venue).
-Uses DAX measures and KPIs for business insights.
-Helps users identify winning patterns and trends.
-Easy to customize with new IPL seasons.
-Suitable for Data Analyst portfolios and resume projects.
+-Interactive and user-friendly dashboard.
+-Provides season-wise IPL performance analysis.
+-Tracks team wins and match trends.
+-Analyzes Player of the Match awards.
+-Displays venue and city-wise match distribution.
+-Includes dynamic filters (Season, Team, City, Venue).
+-Uses DAX measures and KPIs for business insights.
+-Helps users identify winning patterns and trends.
+-Easy to customize with new IPL seasons.
+-Suitable for Data Analyst portfolios and resume projects.
 
 
 # ❌ Limitations (Disadvantages)
