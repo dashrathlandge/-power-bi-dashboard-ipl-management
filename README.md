@@ -217,6 +217,22 @@ IPL-Analytics-Dashboard/
 - Some visualizations may take longer to load with very large datasets.
 
 
+  ## ❌ Limitations (Not Benefits)
+
+- Does not provide live IPL match updates.
+- Does not predict future match outcomes.
+- Limited to the available historical dataset.
+- Does not include detailed ball-by-ball analysis.
+- Advanced player statistics are not available.
+- Requires manual data refresh for new IPL seasons.
+- Requires Power BI Desktop or Power BI Service to view and interact with the dashboard.
+- Performance may slow down with very large datasets.
+- Does not integrate with live IPL APIs.
+- Dashboard insights depend on the accuracy of the source data.
+- Cannot edit or update source data directly from the dashboard.
+- Limited to the visualizations and metrics included in the report.
+
+
 ## 👨‍💻 Author
 
 **Dashrath Landge**
