@@ -1,4 +1,3 @@
-## power-bi-dashboard-ipl-management
 # 🏏 IPL Analytics Dashboard (2008–2026)
 
 An interactive **Power BI dashboard** designed to analyze Indian Premier League (IPL) matches from **2008 to 2026**. This project provides insights into team performance, match results, venues, players, toss decisions, and season-wise trends through dynamic visualizations and KPIs.
