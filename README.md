@@ -163,53 +163,59 @@ IPL-Analytics-Dashboard/
 
 ---
 ## ✅ Advantages
--Interactive and user-friendly dashboard.
--Provides season-wise IPL performance analysis.
--Tracks team wins and match trends.
--Analyzes Player of the Match awards.
--Displays venue and city-wise match distribution.
--Includes dynamic filters (Season, Team, City, Venue).
--Uses DAX measures and KPIs for business insights.
--Helps users identify winning patterns and trends.
--Easy to customize with new IPL seasons.
--Suitable for Data Analyst portfolios and resume projects.
 
+- Interactive and easy-to-use Power BI dashboard.
+- Provides comprehensive IPL match analysis from 2008–2026.
+- Displays key performance indicators (KPIs) for quick insights.
+- Analyzes team performance across different seasons.
+- Tracks Player of the Match awards and winning trends.
+- Visualizes venue-wise and city-wise match distribution.
+- Includes interactive filters for dynamic data exploration.
+- Helps identify patterns in match results and toss decisions.
+- Supports data-driven decision-making through clear visualizations.
+- Demonstrates Power BI, DAX, Power Query, and data visualization skills.
 
-# ❌ Limitations (Disadvantages)
-Uses historical data only; no live match updates.
-Analysis depends on the quality and completeness of the dataset.
-Does not include ball-by-ball statistics (unless an additional dataset is used).
-No predictive analytics or match outcome forecasting.
-Limited advanced player performance metrics.
-Does not integrate with live IPL APIs.
-Dashboard insights are limited to the available data fields.
-Requires Power BI Desktop or Power BI Service to view and interact with the dashboard.
+---
 
-✅ Benefits
-Provides a comprehensive overview of IPL matches from 2008–2026.
-Helps analyze team performance across different seasons.
-Tracks winning trends and match outcomes.
-Identifies the most successful teams and players.
-Analyzes Player of the Match awards.
-Shows venue-wise and city-wise match distribution.
-Helps compare team performance season by season.
-Supports interactive filtering by season, team, venue, city, and match type.
-Enables faster, data-driven decision-making through KPIs and visualizations.
-Demonstrates Power BI, DAX, Power Query, and data visualization skills for portfolio and resume projects.
-Makes large IPL datasets easy to understand through interactive dashboards.
-Can be extended with future seasons or additional player statistics.
+## ❌ Disadvantages
 
-# ❌Not Benefits / Limitations
-Does not provide live IPL match data.
-Does not predict future match outcomes.
-Does not include real-time score updates.
-Limited to the available historical dataset.
-Does not analyze ball-by-ball performance (unless a delivery dataset is added).
-Cannot automatically refresh data without a connected data source.
-Does not include advanced player statistics such as strike rate, economy rate, or wagon wheel analysis.
-Requires Power BI Desktop or Power BI Service to view and interact with the dashboard.
-Insights are only as accurate as the source data.
-Does not support editing or updating data directly from the dashboard.
+- Uses historical data only; live match updates are not available.
+- Results depend on the accuracy and completeness of the dataset.
+- Does not include ball-by-ball analysis.
+- No predictive analytics or future match forecasting.
+- Limited advanced player statistics (e.g., strike rate, economy rate).
+- Requires manual data refresh when new seasons are added.
+- Requires Power BI Desktop or Power BI Service to interact with the dashboard.
+- Some reports may load slower with very large datasets.
+- Does not integrate with live IPL APIs.
+- Dashboard functionality is limited to the available data fields.
+
+## ✅ Benefits
+
+- Provides a clear overview of IPL matches from 2008–2026.
+- Helps analyze team performance across different seasons.
+- Identifies the most successful teams and players.
+- Tracks match-winning trends and results.
+- Visualizes venue-wise and city-wise match distribution.
+- Supports interactive filtering for quick data exploration.
+- Enables users to make data-driven decisions using KPIs and charts.
+- Saves time by presenting complex data in an easy-to-understand format.
+- Improves understanding of IPL statistics through interactive visualizations.
+- Demonstrates Power BI, DAX, Power Query, and data visualization skills.
+- Easy to maintain and update with new IPL season data.
+- Suitable for portfolio, resume, and business intelligence projects.
+  
+## ⚠️ Limitations
+
+- The dashboard uses historical IPL data only and does not provide live match updates.
+- Insights depend on the accuracy and completeness of the source dataset.
+- Ball-by-ball analysis is not included in this version.
+- The dashboard does not predict future match results or player performance.
+- Advanced player statistics such as strike rate, economy rate, and wagon wheel analysis are not available.
+- Data must be refreshed manually when new IPL seasons are added.
+- The dashboard requires Power BI Desktop or Power BI Service for viewing and interaction.
+- Some visualizations may take longer to load with very large datasets.
+
 
 ## 👨‍💻 Author
 
